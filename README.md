@@ -1,2 +1,2 @@
 # callpredict_byLSTM
-predicting the # of calls in hyundai homeshopping through LSTM
+predicting the calls in hyundai homeshopping through LSTM
