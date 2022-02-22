@@ -1,2 +1,2 @@
 # callpredict_byLSTM
-predicting the calls in hyundai homeshopping through LSTM
+LSTM을 이용한 현대홈쇼핑 월단위 일별 인입콜 예측
